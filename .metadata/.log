@@ -1,0 +1,29 @@
+!SESSION 2022-01-07 19:59:23.328 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.36 - pwa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b First_Application.bar -p First_Application
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\Users\cannamal\git\iib-first-app -b First_Application.bar -p First_Application
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-01-07 19:59:24.766
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2022-01-07 20:00:32.667 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.36 - pwa6480sr6fp36-20210824_02(SR6 FP36)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20210824_12036 (JIT enabled, AOT enabled)
+OpenJ9   - 7bb9176
+OMR      - 820a5aa
+IBM      - dc8f23e
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b First_Application.bar -a First_Application
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\Users\cannamal\git\iib-first-app -b First_Application.bar -a First_Application
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-01-07 20:00:34.086
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2022-01-07 20:00:35.986
+!MESSAGE 
